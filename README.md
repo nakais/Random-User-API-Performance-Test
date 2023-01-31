@@ -10,4 +10,4 @@ https://random-data-api.com/api/v2/users
 ![Loadtest](https://user-images.githubusercontent.com/52671754/215353406-3daedef0-f12b-4d92-829b-a423d6a9acca.png)
 
 ### Find out the bottleneck/stress test point:
-![stress_test](https://user-images.githubusercontent.com/52671754/215774130-acb08a8a-7916-42fc-bf82-480926357ec2.png)
+![stress_test](https://user-images.githubusercontent.com/52671754/215774602-d52c3ba4-459e-4668-8a85-657f23a7b6b4.png)
